@@ -1,0 +1,4 @@
+Hello, this is the first file.
+It contains some text.
+This is the second file.
+It contains additional text.
